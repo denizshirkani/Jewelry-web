@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="CHICC — Modern jewellery, designed to be remembered." />
+  <title>CHICC — Fine Jewellery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Italiana&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="announcement">Complimentary delivery on all orders</div>
+
+  <header class="site-header" id="siteHeader">
+    <button class="icon-button menu-button" id="menuButton" aria-label="Open menu">
+      <span></span><span></span>
+    </button>
+
+    <nav class="desktop-nav" aria-label="Primary navigation">
+      <a href="#new">New In</a>
+      <a href="#collections">Collections</a>
+      <a href="#story">Our Story</a>
+    </nav>
+
+    <a class="brand" href="#top" aria-label="CHICC homepage">
+      <svg viewBox="0 0 460 145" role="img" aria-label="CHICC logo">
+        <text x="230" y="86" text-anchor="middle" class="logo-main">CHICC</text>
+        <text x="230" y="124" text-anchor="middle" class="logo-sub">JEWELLERY</text>
+        <path d="M80 43c10-26 29-27 39-1 8-20 28-22 39-1" />
+        <path d="M304 43c10-26 29-27 39-1 8-20 28-22 39-1" />
+      </svg>
+    </a>
+
+    <nav class="utility-nav" aria-label="Utility navigation">
+      <button class="text-button">Search</button>
+      <button class="text-button">Account</button>
+      <button class="bag-button">Bag <span>(0)</span></button>
+    </nav>
+  </header>
+
+  <aside class="mobile-drawer" id="mobileDrawer" aria-hidden="true">
+    <button class="drawer-close" id="drawerClose" aria-label="Close menu">×</button>
+    <nav>
+      <a href="#new">New In</a>
+      <a href="#collections">Collections</a>
+      <a href="#story">Our Story</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <p>Jewellery for your most unforgettable moments.</p>
+  </aside>
+  <div class="drawer-overlay" id="drawerOverlay"></div>
+
+  <main id="top">
+    <section class="hero">
+      <img src="https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=2200&q=90" alt="Gold jewellery editorial" />
+      <div class="hero-shade"></div>
+      <div class="hero-copy reveal">
+        <p class="eyebrow">The Signature Edit</p>
+        <h1>Quiet luxury.<br><em>Loud presence.</em></h1>
+        <a class="button button-light" href="#new">Discover the collection</a>
+      </div>
+      <div class="scroll-cue">Scroll to explore</div>
+    </section>
+
+    <section class="intro section-pad reveal" id="story">
+      <p class="eyebrow gold">The CHICC philosophy</p>
+      <h2>Jewellery designed to feel<br>like it was always yours.</h2>
+      <p class="intro-text">Minimal forms, memorable details. CHICC celebrates confidence through pieces that move effortlessly from every day to every occasion.</p>
+    </section>
+
+    <section class="editorial-grid" id="collections">
+      <a class="editorial-card tall reveal" href="#new">
+        <img src="https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1400&q=90" alt="Gold necklace" />
+        <div class="card-overlay"></div>
+        <div class="editorial-label"><span>01</span><h3>Necklaces</h3><p>Explore</p></div>
+      </a>
+      <a class="editorial-card reveal" href="#new">
+        <img src="https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1400&q=90" alt="Gold ring" />
+        <div class="card-overlay"></div>
+        <div class="editorial-label"><span>02</span><h3>Rings</h3><p>Explore</p></div>
+      </a>
+      <a class="editorial-card reveal" href="#new">
+        <img src="https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1400&q=90" alt="Gold earrings" />
+        <div class="card-overlay"></div>
+        <div class="editorial-label"><span>03</span><h3>Earrings</h3><p>Explore</p></div>
+      </a>
+    </section>
+
+    <section class="products section-pad" id="new">
+      <div class="section-head reveal">
+        <div>
+          <p class="eyebrow gold">New arrivals</p>
+          <h2>Objects of desire</h2>
+        </div>
+        <a class="underlined-link" href="#">View all pieces</a>
+      </div>
+
+      <div class="product-grid">
+        <article class="product-card reveal">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+          <div class="product-image">
+            <span class="product-tag">New</span>
+            <img src="https://images.unsplash.com/photo-1603561596112-db1d835fcf72?auto=format&fit=crop&w=1000&q=90" alt="Sculpted gold earrings" />
+          </div>
+          <div class="product-meta"><h3>The Sculpted Hoops</h3><p>18K gold vermeil</p><strong>₺8,950</strong></div>
+        </article>
+        <article class="product-card reveal">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+          <div class="product-image">
+            <img src="https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=1000&q=90" alt="Minimal gold necklace" />
+          </div>
+          <div class="product-meta"><h3>The Fine Line Necklace</h3><p>18K gold vermeil</p><strong>₺7,250</strong></div>
+        </article>
+        <article class="product-card reveal">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+          <div class="product-image">
+            <span class="product-tag">Bestseller</span>
+            <img src="https://images.unsplash.com/photo-1627293509201-cd0c780043e6?auto=format&fit=crop&w=1000&q=90" alt="Gold statement ring" />
+          </div>
+          <div class="product-meta"><h3>The Signature Ring</h3><p>18K gold vermeil</p><strong>₺6,800</strong></div>
+        </article>
+        <article class="product-card reveal">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+          <div class="product-image">
+            <img src="https://images.unsplash.com/photo-1611085583191-a3b181a88401?auto=format&fit=crop&w=1000&q=90" alt="Gold chain bracelet" />
+          </div>
+          <div class="product-meta"><h3>The Muse Bracelet</h3><p>18K gold vermeil</p><strong>₺7,900</strong></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="campaign">
+      <div class="campaign-image reveal">
+        <img src="https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1600&q=90" alt="Jewellery campaign detail" />
+      </div>
+      <div class="campaign-copy reveal">
+        <p class="eyebrow gold">CHICC No. 01</p>
+        <h2>A collection made<br>to become a ritual.</h2>
+        <p>Refined silhouettes and tactile details, created for stacking, layering and making entirely your own.</p>
+        <a class="button button-dark" href="#new">Shop the edit</a>
+      </div>
+    </section>
+
+    <section class="newsletter section-pad" id="contact">
+      <p class="eyebrow gold">Private access</p>
+      <h2>Enter the world of CHICC.</h2>
+      <p>Receive collection previews, private invitations and stories from the studio.</p>
+      <form id="newsletterForm">
+        <input type="email" placeholder="Email address" aria-label="Email address" required />
+        <button type="submit">Join</button>
+      </form>
+      <div class="form-message" id="formMessage"></div>
+    </section>
+  </main>
+
+  <footer>
+    <a class="footer-brand" href="#top">CHICC</a>
+    <div class="footer-links">
+      <a href="#">Shipping & Returns</a><a href="#">Care Guide</a><a href="#">Instagram</a><a href="#">Contact</a>
+    </div>
+    <p>© 2026 CHICC Jewellery. Concept website.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

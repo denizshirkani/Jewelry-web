@@ -1,14 +1,19 @@
-# CHICC sample website
+# CHICC V3 — Multi-page Fine Jewellery Concept
 
-Open `index.html` in a browser. The sample uses remote editorial images and Google Fonts, so an internet connection is required for the full visual effect.
+This version fixes the category navigation and broken-image issue.
 
-## Included
-- Responsive luxury homepage
-- Sticky transparent navigation
-- Mobile menu
-- Editorial collection cards
-- Product grid and wishlist interactions
-- Newsletter confirmation
-- Scroll reveal animations
+## Pages
+- index.html
+- rings.html
+- necklaces.html
+- earrings.html
+- bracelets.html
 
-Replace the image URLs and sample product data with CHICC's real content when ready.
+## Improvements
+- Each jewellery category has its own dedicated page.
+- 24 total concept products.
+- Local SVG product artwork in /assets, so product visuals no longer rely on external image URLs.
+- Private price enquiry remains available for every product.
+- Responsive navigation and mobile menu.
+
+Upload all files and the assets folder to the root of the GitHub repository.

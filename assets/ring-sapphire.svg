@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Sapphire ring">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+    <stop offset="0%" stop-color="#fffdf8"/>
+    <stop offset="100%" stop-color="#ece4d8"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0" x2="1">
+    <stop offset="0%" stop-color="#9d7632"/>
+    <stop offset="35%" stop-color="#e8cf85"/>
+    <stop offset="70%" stop-color="#aa7f34"/>
+    <stop offset="100%" stop-color="#f0daa0"/>
+  </linearGradient>
+  <linearGradient id="whitegold" x1="0" x2="1">
+    <stop offset="0%" stop-color="#aaa"/>
+    <stop offset="40%" stop-color="#f8f8f5"/>
+    <stop offset="75%" stop-color="#b8b8b4"/>
+    <stop offset="100%" stop-color="#fff"/>
+  </linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-opacity=".14"/></filter>
+</defs>
+<rect width="900" height="1100" fill="url(#bg)"/>
+<ellipse cx="450" cy="910" rx="260" ry="44" fill="#b8aa96" opacity=".13"/>
+<g filter="url(#shadow)">
+<ellipse cx="450" cy="620" rx="210" ry="255" fill="none" stroke="url(#whitegold)" stroke-width="38"/>
+<path d="M330 470 Q450 400 570 470" fill="none" stroke="url(#whitegold)" stroke-width="28"/>
+<circle cx="540.0" cy="390.0" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/><circle cx="513.6396103067893" cy="453.6396103067893" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/><circle cx="450.0" cy="480.0" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/><circle cx="386.3603896932107" cy="453.6396103067893" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/><circle cx="360.0" cy="390.0" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/><circle cx="386.3603896932107" cy="326.3603896932107" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/><circle cx="450.0" cy="300.0" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/><circle cx="513.6396103067892" cy="326.3603896932107" r="12" fill="#fff" stroke="#d7d7d3" stroke-width="3"/>
+<polygon points="450,285 535,365 500,465 400,465 365,365" fill="#2d5aa6" stroke="#ffffff" stroke-width="9"/>
+<polyline points="450,285 450,465 365,365 535,365 450,285" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="5"/>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Emerald bracelet">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+    <stop offset="0%" stop-color="#fffdf8"/>
+    <stop offset="100%" stop-color="#ece4d8"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0" x2="1">
+    <stop offset="0%" stop-color="#9d7632"/>
+    <stop offset="35%" stop-color="#e8cf85"/>
+    <stop offset="70%" stop-color="#aa7f34"/>
+    <stop offset="100%" stop-color="#f0daa0"/>
+  </linearGradient>
+  <linearGradient id="whitegold" x1="0" x2="1">
+    <stop offset="0%" stop-color="#aaa"/>
+    <stop offset="40%" stop-color="#f8f8f5"/>
+    <stop offset="75%" stop-color="#b8b8b4"/>
+    <stop offset="100%" stop-color="#fff"/>
+  </linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-opacity=".14"/></filter>
+</defs>
+<rect width="900" height="1100" fill="url(#bg)"/>
+<ellipse cx="450" cy="910" rx="260" ry="44" fill="#b8aa96" opacity=".13"/>
+<g filter="url(#shadow)"><ellipse cx="450" cy="550" rx="285" ry="195" fill="none" stroke="url(#gold)" stroke-width="18"/><circle cx="710.0" cy="550.0" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="694.3200814043362" cy="608.1434243653637" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="649.1715552109342" cy="659.2738936467117" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="580.0" cy="697.2243186433545" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="495.1485261934019" cy="717.4173180120754" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="404.8514738065981" cy="717.4173180120754" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="320.00000000000006" cy="697.2243186433545" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="250.82844478906574" cy="659.2738936467117" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="205.67991859566385" cy="608.1434243653637" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="190.0" cy="550.0" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="205.67991859566382" cy="491.85657563463633" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="250.82844478906563" cy="440.7261063532884" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="319.9999999999999" cy="402.77568135664546" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="404.8514738065981" cy="382.5826819879246" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="495.1485261934018" cy="382.5826819879246" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="579.9999999999998" cy="402.77568135664535" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="649.1715552109342" cy="440.7261063532883" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/><circle cx="694.3200814043362" cy="491.85657563463633" r="25" fill="#0f7f5b" stroke="#d9d9d6" stroke-width="6"/></g>
+</svg>

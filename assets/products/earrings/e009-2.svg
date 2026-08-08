@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img">
+  <defs>
+    <radialGradient id="bgbg187" cx="50%" cy="38%" r="75%">
+      <stop offset="0%" stop-color="#FBF9F4"/>
+      <stop offset="100%" stop-color="#EDE6D6"/>
+    </radialGradient>
+    <radialGradient id="shadowbg187" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bgbg187)"/>
+<defs><linearGradient id="m188" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2F1EC"/>
+      <stop offset="45%" stop-color="#EAE7DD"/>
+      <stop offset="100%" stop-color="#C9C5B8"/>
+    </linearGradient></defs><ellipse cx="340.0" cy="975.0" rx="34" ry="9" fill="url(#shadowbg187)"/><circle cx="340.0" cy="485.0" r="9" fill="url(#m188)"/><line x1="340.0" y1="492.0" x2="340.0" y2="543.0" stroke="url(#m188)" stroke-width="3"/><defs><radialGradient id="gs189" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FBF3E6"/>
+      <stop offset="55%" stop-color="#E7D8BE"/>
+      <stop offset="100%" stop-color="#D3BE9B"/>
+    </radialGradient></defs><circle cx="340.0" cy="571.0" r="28.2" fill="url(#gs189)" stroke="#D3BE9B" stroke-width="1.128"/><line x1="340.0" y1="571.0" x2="363.2" y2="577.2" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="340.0" y1="571.0" x2="346.2" y2="594.2" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="340.0" y1="571.0" x2="323.1" y2="587.9" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="340.0" y1="571.0" x2="316.8" y2="564.8" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="340.0" y1="571.0" x2="333.8" y2="547.8" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="340.0" y1="571.0" x2="356.9" y2="554.1" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><path d="M330.976 554.08 L332.71312 560.23888 L338.872 561.976 L332.71312 563.71312 L330.976 569.872 L329.23888 563.71312 L323.08 561.976 L329.23888 560.23888 Z" fill="#FFFFFF" opacity="0.9"/><ellipse cx="660.0" cy="975.0" rx="34" ry="9" fill="url(#shadowbg187)"/><circle cx="660.0" cy="485.0" r="9" fill="url(#m188)"/><line x1="660.0" y1="492.0" x2="660.0" y2="543.0" stroke="url(#m188)" stroke-width="3"/><defs><radialGradient id="gs190" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FBF3E6"/>
+      <stop offset="55%" stop-color="#E7D8BE"/>
+      <stop offset="100%" stop-color="#D3BE9B"/>
+    </radialGradient></defs><circle cx="660.0" cy="571.0" r="28.2" fill="url(#gs190)" stroke="#D3BE9B" stroke-width="1.128"/><line x1="660.0" y1="571.0" x2="683.2" y2="577.2" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="660.0" y1="571.0" x2="666.2" y2="594.2" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="660.0" y1="571.0" x2="643.1" y2="587.9" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="660.0" y1="571.0" x2="636.8" y2="564.8" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="660.0" y1="571.0" x2="653.8" y2="547.8" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><line x1="660.0" y1="571.0" x2="676.9" y2="554.1" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/><path d="M650.976 554.08 L652.71312 560.23888 L658.872 561.976 L652.71312 563.71312 L650.976 569.872 L649.23888 563.71312 L643.08 561.976 L649.23888 560.23888 Z" fill="#FFFFFF" opacity="0.9"/><text x="972" y="1222" text-anchor="end" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#8A8477" opacity="0.55">CHICC</text></svg>

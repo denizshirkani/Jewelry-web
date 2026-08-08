@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img">
+  <defs>
+    <radialGradient id="bgbg124" cx="50%" cy="38%" r="75%">
+      <stop offset="0%" stop-color="#FBF9F4"/>
+      <stop offset="100%" stop-color="#EDE6D6"/>
+    </radialGradient>
+    <radialGradient id="shadowbg124" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bgbg124)"/>
+<defs><linearGradient id="m125" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7C88A"/>
+      <stop offset="45%" stop-color="#D9B876"/>
+      <stop offset="100%" stop-color="#A9834A"/>
+    </linearGradient></defs><path d="M 300.0 200.0 Q 500.0 900.0 700.0 200.0" fill="none" stroke="url(#m125)" stroke-width="6" opacity="0.95"/><circle cx="300.0" cy="200.0" r="4.4" fill="url(#m125)"/><circle cx="317.4" cy="258.2" r="4.4" fill="url(#m125)"/><circle cx="334.8" cy="311.2" r="4.4" fill="url(#m125)"/><circle cx="352.2" cy="358.8" r="4.4" fill="url(#m125)"/><circle cx="369.6" cy="401.1" r="4.4" fill="url(#m125)"/><circle cx="387.0" cy="438.2" r="4.4" fill="url(#m125)"/><circle cx="404.3" cy="469.9" r="4.4" fill="url(#m125)"/><circle cx="421.7" cy="496.4" r="4.4" fill="url(#m125)"/><circle cx="439.1" cy="517.6" r="4.4" fill="url(#m125)"/><circle cx="456.5" cy="533.5" r="4.4" fill="url(#m125)"/><circle cx="473.9" cy="544.0" r="4.4" fill="url(#m125)"/><circle cx="491.3" cy="549.3" r="4.4" fill="url(#m125)"/><circle cx="508.7" cy="549.3" r="4.4" fill="url(#m125)"/><circle cx="526.1" cy="544.0" r="4.4" fill="url(#m125)"/><circle cx="543.5" cy="533.5" r="4.4" fill="url(#m125)"/><circle cx="560.9" cy="517.6" r="4.4" fill="url(#m125)"/><circle cx="578.3" cy="496.4" r="4.4" fill="url(#m125)"/><circle cx="595.7" cy="469.9" r="4.4" fill="url(#m125)"/><circle cx="613.0" cy="438.2" r="4.4" fill="url(#m125)"/><circle cx="630.4" cy="401.1" r="4.4" fill="url(#m125)"/><circle cx="647.8" cy="358.8" r="4.4" fill="url(#m125)"/><circle cx="665.2" cy="311.2" r="4.4" fill="url(#m125)"/><circle cx="682.6" cy="258.2" r="4.4" fill="url(#m125)"/><circle cx="700.0" cy="200.0" r="4.4" fill="url(#m125)"/><ellipse cx="500.0" cy="875.0" rx="120" ry="20" fill="url(#shadowbg124)"/><defs><linearGradient id="m2126" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7C88A"/>
+      <stop offset="45%" stop-color="#D9B876"/>
+      <stop offset="100%" stop-color="#A9834A"/>
+    </linearGradient></defs><circle cx="500.0" cy="825.0" r="54.519999999999996" fill="url(#m2126)" stroke="#8F6D3C" stroke-width="2"/><circle cx="500.0" cy="825.0" r="33.8024" fill="none" stroke="#FBF9F4" stroke-width="2" opacity="0.55"/><text x="500.0" y="833.0" text-anchor="middle" font-family="Georgia, serif" font-size="27.259999999999998" fill="#FBF9F4" opacity="0.85">C</text><text x="972" y="1222" text-anchor="end" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#8A8477" opacity="0.55">CHICC</text></svg>

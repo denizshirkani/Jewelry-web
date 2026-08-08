@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img">
+  <defs>
+    <radialGradient id="bgbg49" cx="50%" cy="38%" r="75%">
+      <stop offset="0%" stop-color="#FBF9F4"/>
+      <stop offset="100%" stop-color="#EDE6D6"/>
+    </radialGradient>
+    <radialGradient id="shadowbg49" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bgbg49)"/>
+<defs><linearGradient id="m50" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7C88A"/>
+      <stop offset="45%" stop-color="#D9B876"/>
+      <stop offset="100%" stop-color="#A9834A"/>
+    </linearGradient><radialGradient id="gs52" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#C4495B"/>
+      <stop offset="55%" stop-color="#7E1626"/>
+      <stop offset="100%" stop-color="#4E0C17"/>
+    </radialGradient></defs><ellipse cx="500.0" cy="838.0000000000001" rx="252.99999999999997" ry="42.00000000000001" fill="url(#shadowbg49)"/><g transform="rotate(-18 500.0 700.0000000000001)"><path d="M 280.0 700.0000000000001 A 220.0 150.0 0 1 0 720.0 700.0000000000001 A 220.0 150.0 0 1 0 280.0 700.0000000000001 Z M 341.6 700.0000000000001 A 158.4 108.0 0 1 0 658.4 700.0000000000001 A 158.4 108.0 0 1 0 341.6 700.0000000000001 Z" fill="url(#m50)" fill-rule="evenodd" stroke="#8F6D3C" stroke-width="1.5"/></g><rect x="464.0" y="542.5000000000001" width="12" height="34" rx="4" fill="url(#m50)" transform="rotate(-2.6999999999999997 470.0 700.0000000000001)"/><rect x="524.0" y="542.5000000000001" width="12" height="34" rx="4" fill="url(#m50)" transform="rotate(-2.6999999999999997 530.0 700.0000000000001)"/><circle cx="500.0" cy="547.0000000000001" r="46.0" fill="url(#gs52)" stroke="#4E0C17" stroke-width="1.84"/><line x1="500.0" y1="547.0000000000001" x2="537.8" y2="557.1" stroke="#F2B9C1" stroke-opacity="0.35" stroke-width="1.38"/><line x1="500.0" y1="547.0000000000001" x2="510.1" y2="584.8" stroke="#F2B9C1" stroke-opacity="0.35" stroke-width="1.38"/><line x1="500.0" y1="547.0000000000001" x2="472.4" y2="574.6" stroke="#F2B9C1" stroke-opacity="0.35" stroke-width="1.38"/><line x1="500.0" y1="547.0000000000001" x2="462.2" y2="536.9" stroke="#F2B9C1" stroke-opacity="0.35" stroke-width="1.38"/><line x1="500.0" y1="547.0000000000001" x2="489.9" y2="509.2" stroke="#F2B9C1" stroke-opacity="0.35" stroke-width="1.38"/><line x1="500.0" y1="547.0000000000001" x2="527.6" y2="519.4" stroke="#F2B9C1" stroke-opacity="0.35" stroke-width="1.38"/><path d="M485.28 519.4000000000001 L488.11359999999996 529.4464 L498.15999999999997 532.2800000000001 L488.11359999999996 535.1136000000001 L485.28 545.1600000000001 L482.4464 535.1136000000001 L472.4 532.2800000000001 L482.4464 529.4464 Z" fill="#F2B9C1" opacity="0.9"/><text x="972" y="1222" text-anchor="end" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#8A8477" opacity="0.55">CHICC</text></svg>

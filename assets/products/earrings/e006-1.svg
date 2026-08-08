@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img">
+  <defs>
+    <radialGradient id="bgbg163" cx="50%" cy="38%" r="75%">
+      <stop offset="0%" stop-color="#FBF9F4"/>
+      <stop offset="100%" stop-color="#EDE6D6"/>
+    </radialGradient>
+    <radialGradient id="shadowbg163" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bgbg163)"/>
+<defs><linearGradient id="m164" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7C88A"/>
+      <stop offset="45%" stop-color="#D9B876"/>
+      <stop offset="100%" stop-color="#A9834A"/>
+    </linearGradient></defs><ellipse cx="340.0" cy="975.0" rx="34" ry="9" fill="url(#shadowbg163)"/><circle cx="340.0" cy="525.0" r="90.0" fill="none" stroke="url(#m164)" stroke-width="10"/><ellipse cx="660.0" cy="975.0" rx="34" ry="9" fill="url(#shadowbg163)"/><circle cx="660.0" cy="525.0" r="90.0" fill="none" stroke="url(#m164)" stroke-width="10"/><text x="972" y="1222" text-anchor="end" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#8A8477" opacity="0.55">CHICC</text></svg>

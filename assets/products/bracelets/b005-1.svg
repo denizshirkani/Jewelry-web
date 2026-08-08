@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img">
+  <defs>
+    <radialGradient id="bgbg261" cx="50%" cy="38%" r="75%">
+      <stop offset="0%" stop-color="#FBF9F4"/>
+      <stop offset="100%" stop-color="#EDE6D6"/>
+    </radialGradient>
+    <radialGradient id="shadowbg261" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bgbg261)"/>
+<defs><linearGradient id="m262" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5F4F0"/>
+      <stop offset="45%" stop-color="#E9E7E0"/>
+      <stop offset="100%" stop-color="#CFCCC3"/>
+    </linearGradient></defs><ellipse cx="500.0" cy="824.5" rx="315.0" ry="41.8" fill="url(#shadowbg261)"/><path d="M 200.0 625.0 A 300.0 190.0 0 1 0 800.0 625.0 A 300.0 190.0 0 1 0 200.0 625.0 Z M 245.0 625.0 A 255.0 152.0 0 1 0 755.0 625.0 A 255.0 152.0 0 1 0 245.0 625.0 Z" fill="url(#m262)" fill-rule="evenodd" stroke="#B4B0A4" stroke-width="1.5"/><defs><radialGradient id="gs263" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="221.0" cy="625.0" r="15.0" fill="url(#gs263)" stroke="#C7C6BC" stroke-width="1"/><path d="M216.2 616.0 L217.124 619.2760000000001 L220.39999999999998 620.2 L217.124 621.124 L216.2 624.4000000000001 L215.27599999999998 621.124 L212.0 620.2 L215.27599999999998 619.2760000000001 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs264" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="242.23761042935098" cy="557.3798375010886" r="15.0" fill="url(#gs264)" stroke="#C7C6BC" stroke-width="1"/><path d="M237.43761042935097 548.3798375010886 L238.36161042935097 551.6558375010886 L241.63761042935096 552.5798375010886 L238.36161042935097 553.5038375010886 L237.43761042935097 556.7798375010887 L236.51361042935096 553.5038375010886 L233.23761042935098 552.5798375010886 L236.51361042935096 551.6558375010886 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs265" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="302.71720804895324" cy="500.05423176433703" r="15.0" fill="url(#gs265)" stroke="#C7C6BC" stroke-width="1"/><path d="M297.9172080489532 491.05423176433703 L298.8412080489532 494.33023176433704 L302.1172080489532 495.254231764337 L298.8412080489532 496.178231764337 L297.9172080489532 499.454231764337 L296.99320804895325 496.178231764337 L293.71720804895324 495.254231764337 L296.99320804895325 494.33023176433704 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs266" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="393.23132237014" cy="461.7504866052556" r="15.0" fill="url(#gs266)" stroke="#C7C6BC" stroke-width="1"/><path d="M388.43132237014 452.7504866052556 L389.35532237013996 456.0264866052556 L392.63132237013997 456.9504866052556 L389.35532237013996 457.8744866052556 L388.43132237014 461.1504866052556 L387.50732237014 457.8744866052556 L384.23132237014 456.9504866052556 L387.50732237014 456.0264866052556 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs267" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="500.0" cy="448.29999999999995" r="15.0" fill="url(#gs267)" stroke="#C7C6BC" stroke-width="1"/><path d="M495.2 439.29999999999995 L496.12399999999997 442.57599999999996 L499.4 443.49999999999994 L496.12399999999997 444.4239999999999 L495.2 447.69999999999993 L494.276 444.4239999999999 L491.0 443.49999999999994 L494.276 442.57599999999996 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs268" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="606.7686776298601" cy="461.7504866052556" r="15.0" fill="url(#gs268)" stroke="#C7C6BC" stroke-width="1"/><path d="M601.9686776298602 452.7504866052556 L602.8926776298601 456.0264866052556 L606.1686776298602 456.9504866052556 L602.8926776298601 457.8744866052556 L601.9686776298602 461.1504866052556 L601.0446776298602 457.8744866052556 L597.7686776298601 456.9504866052556 L601.0446776298602 456.0264866052556 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs269" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="697.2827919510468" cy="500.05423176433703" r="15.0" fill="url(#gs269)" stroke="#C7C6BC" stroke-width="1"/><path d="M692.4827919510468 491.05423176433703 L693.4067919510468 494.33023176433704 L696.6827919510469 495.254231764337 L693.4067919510468 496.178231764337 L692.4827919510468 499.454231764337 L691.5587919510468 496.178231764337 L688.2827919510468 495.254231764337 L691.5587919510468 494.33023176433704 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs270" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="757.762389570649" cy="557.3798375010887" r="15.0" fill="url(#gs270)" stroke="#C7C6BC" stroke-width="1"/><path d="M752.9623895706491 548.3798375010887 L753.886389570649 551.6558375010887 L757.1623895706491 552.5798375010887 L753.886389570649 553.5038375010887 L752.9623895706491 556.7798375010888 L752.0383895706491 553.5038375010887 L748.762389570649 552.5798375010887 L752.0383895706491 551.6558375010887 Z" fill="#FFFFFF" opacity="0.9"/><defs><radialGradient id="gs271" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#EDEEEA"/>
+      <stop offset="100%" stop-color="#C7C6BC"/>
+    </radialGradient></defs><circle cx="779.0" cy="625.0" r="15.0" fill="url(#gs271)" stroke="#C7C6BC" stroke-width="1"/><path d="M774.2 616.0 L775.124 619.2760000000001 L778.4000000000001 620.2 L775.124 621.124 L774.2 624.4000000000001 L773.2760000000001 621.124 L770.0 620.2 L773.2760000000001 619.2760000000001 Z" fill="#FFFFFF" opacity="0.9"/><text x="972" y="1222" text-anchor="end" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#8A8477" opacity="0.55">CHICC</text></svg>
